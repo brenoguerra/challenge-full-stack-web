@@ -1,3 +1,5 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/brenoguerra/grupo-a-api.git
+[submodule "fe"]
+	url = https://github.com/brenoguerra/grupo-a-fe.git
