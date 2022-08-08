@@ -1,3 +1,4 @@
+
 # GrupoA Educação - Full Stack Web Developer
 
 * Executando os projetos
@@ -54,4 +55,9 @@
 * Quais requisitos obrigatórios que não foram entregues
 ````
 	Acredito que todos os requisitos foram cumpridos.
+````
+
+* Detalhe adicional
+````
+	O back-end e o front-end estão divididos em dois repositórios pois iniciei antes de realizar o fork do projeto, mas ambos ficaram "enlaçados" como sub-módulos das pastas "fe" e "api".
 ````
